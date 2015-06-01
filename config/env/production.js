@@ -1,5 +1,5 @@
 'use strict';
-
+// test this
 module.exports = {
 	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI ||  'mongodb://meanjsuser:456456@ds043262.mongolab.com:43262/meanjs',
 	assets: {
